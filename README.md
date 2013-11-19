@@ -41,3 +41,4 @@ ssh root@`docker-ip $CONTAINER_ID`
 #interactive version
 sudo docker run -t -i oripekelman/prediction_io /bin/bash
 
+
