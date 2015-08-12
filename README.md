@@ -1,3 +1,5 @@
+# [NOT MAINTAINED]
+
 #First attempt at dockerizing prediction.io
 
 ##This is oh so hacky
